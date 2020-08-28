@@ -307,6 +307,7 @@ a:hover {
 }
 
 .el-row {
+  color: black;
   margin-bottom: 5px;
   display: flex;
   flex-wrap: wrap;
